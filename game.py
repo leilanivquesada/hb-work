@@ -7,7 +7,7 @@ print("Welcome to the Number Guessing Game!")
 print("Hi there! What's your name?")
 #get player name
 name = input("Input your name here ")
-print(name + ", let's play a guessing game!")
+print(f"{name}, let's play a guessing game!")
 print(f"{name}, I'm thinking of a number between 1 and 100.")
 print("Try to guess my number.")
 # choose a random number between 1 and 100
