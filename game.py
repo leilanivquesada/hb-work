@@ -3,6 +3,7 @@ import random
 
 # Put your code here
 # greet player
+print("Welcome to the Number Guessing Game!")
 print("Hi there! What's your name?")
 #get player name
 name = input("Input your name here ")
